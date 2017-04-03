@@ -132,10 +132,10 @@ Risolve Xrif "roberta": .\contrib\roberta.dwg
 	 Aggiunta del simbolo: "roberta|32456"
 	 Aggiunta del simbolo: "roberta|A$C1F961306"
 	 Aggiunta del simbolo: "roberta|A$C7EA53CC2"
-	 Aggiunta del simbolo: "*U|REF"
 	 Aggiunta del simbolo: "roberta|\U+65CF\U+51E0\U+4F55\U+56FE\U+5F62\U+7EC4\U+5408_3698-Ref_ Level"
 	 Aggiunta del simbolo: "roberta|A$C64EC0600"
 	 Aggiunta del simbolo: "roberta|A$C57D527DD"
+	 Aggiunta del simbolo: "*U|REF"
 	Aggiornamento di Blocco completato.
 
 	Aggiornare tabella simboli layer:
