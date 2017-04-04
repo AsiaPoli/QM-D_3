@@ -74,6 +74,8 @@ Risolve Xrif "asia": .\contrib\asia.dwg
 Risolve Xrif "gaia": .\contrib\gaia.dwg
 
 	Aggiornare tabella simboli blocco:
+	 Aggiunta del simbolo: "gaia|A$C28D42AF1"
+	 Aggiunta del simbolo: "*U|REF"
 	Aggiornamento di Blocco completato.
 
 	Aggiornare tabella simboli layer:
@@ -103,6 +105,11 @@ Risolve Xrif "gaia": .\contrib\gaia.dwg
 	 È stata ignorata l'immissione "AcCmTransparency" duplicata di applicazione registrata.
 	 È stata ignorata l'immissione "ACAD_DSTYLE_DIMTEXT_FILL" duplicata di applicazione registrata.
 	 È stata ignorata l'immissione "ACAD_EXEMPT_FROM_CAD_STANDARDS" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcLayerTools" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcadStringInfo" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "REVIT" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AEC_XDATA_BOUND_SPACE" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcDbBlockRepETag" duplicata di applicazione registrata.
 	Aggiornamento di Applicazione registrata completato.
 
 	Aggiornare tabella simboli stile di quota:
@@ -128,21 +135,11 @@ Risolve Xrif "roberta": .\contrib\roberta.dwg
 	 Aggiunta del simbolo: "roberta|IKEA-Grankulla_Futon_Single_Bed-top"
 	 Aggiunta del simbolo: "roberta|A$C596A3198"
 	 Aggiunta del simbolo: "roberta|A$C6AD400E8"
-	 Aggiunta del simbolo: "roberta|32456"
 	 Aggiunta del simbolo: "roberta|A$C1F961306"
-	 Aggiunta del simbolo: "roberta|A$C7EA53CC2"
-	 Aggiunta del simbolo: "roberta|\U+65CF\U+51E0\U+4F55\U+56FE\U+5F62\U+7EC4\U+5408_3698-Ref_ Level"
-	 Aggiunta del simbolo: "roberta|A$C64EC0600"
-	 Aggiunta del simbolo: "roberta|A$C57D527DD"
 	 Aggiunta del simbolo: "*U|REF"
 	Aggiornamento di Blocco completato.
 
 	Aggiornare tabella simboli layer:
-	 Aggiunta del simbolo: "roberta|A-DOOR-FULL"
-	 Aggiunta del simbolo: "roberta|A-WALL-FULL"
-	 Aggiunta del simbolo: "roberta|TREE"
-	 Aggiunta del simbolo: "roberta|A-ANNO-NOTE"
-	 Aggiunta del simbolo: "roberta|IKE120036-t1"
 	Aggiornamento di Layer completato.
 
 	Aggiornare dizionario stato layer:
@@ -191,7 +188,7 @@ Risolve Xrif "roberta": .\contrib\roberta.dwg
 	Aggiornare dizionario scalelist:
 	Aggiornamento di ScaleList completato.
 "roberta" caricato: C:\Users\admin\Desktop\QM-D_3\contrib\roberta.dwg
-caleList completato.
+List completato.
 "roberta" caricato: C:\Users\admin\Desktop\QM-D_3\contrib\roberta.dwg
 Possibili modifiche al file di riferimento "roberta" dall'ultimo salvataggio del disegno host.
 admin\Desktop\QM-D_3\contrib\roberta.dwg

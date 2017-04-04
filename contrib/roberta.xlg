@@ -4,26 +4,25 @@ Caricamento C:\Users\admin\Desktop\QM-D_3\contrib\roberta.dwg nell'editor dei di
 Risoluzione degli xrif.
 
 
-Risolve Xrif "QM-D_3": ..\QM-D_3.dwg
+Risolve Xrif "$0$asia": .\contrib\asia.dwg
 
 	Aggiornare tabella simboli blocco:
-	 Aggiunta del simbolo: "QM-D_3|_Open90"
-	 Aggiunta del simbolo: "QM-D_3|_Oblique"
-	 Aggiunta del simbolo: "QM-D_3|A$C61314602"
-	 Aggiunta del simbolo: "QM-D_3|A$C52F513AA"
-	 Aggiunta del simbolo: "QM-D_3|\U+65CF\U+51E0\U+4F55\U+56FE\U+5F62\U+7EC4\U+5408_2633-Ref_ Level"
+	 Aggiunta del simbolo: "$0$asia|A$C61314602"
+	 Aggiunta del simbolo: "$0$asia|_Open90"
+	 Aggiunta del simbolo: "$0$asia|_Oblique"
+	 Aggiunta del simbolo: "$0$asia|A$C52F513AA"
+	 Aggiunta del simbolo: "$0$asia|\U+65CF\U+51E0\U+4F55\U+56FE\U+5F62\U+7EC4\U+5408_2633-Ref_ Level"
 	 Aggiunta del simbolo: "*U|REF"
-	 Aggiunta del simbolo: "QM-D_3|A$C596A3198"
-	 Aggiunta del simbolo: "QM-D_3|32456"
-	 Aggiunta del simbolo: "QM-D_3|A$C7EA53CC2"
-	 Aggiunta del simbolo: "QM-D_3|\U+65CF\U+51E0\U+4F55\U+56FE\U+5F62\U+7EC4\U+5408_3698-Ref_ Level"
-	 Aggiunta del simbolo: "QM-D_3|A$C64EC0600"
-	 Aggiunta del simbolo: "QM-D_3|A$C57D527DD"
-	 Aggiunta del simbolo: "QM-D_3|A$C08E13F05"
-	 Aggiunta del simbolo: "QM-D_3|IKEA-Grankulla_Futon_Single_Bed-top"
 	Aggiornamento di Blocco completato.
 
 	Aggiornare tabella simboli layer:
+	 Aggiunta del simbolo: "$0$asia|A-ANNO-NOTE"
+	 Aggiunta del simbolo: "$0$asia|A-FURN"
+	 Aggiunta del simbolo: "$0$asia|Archweb.it - blocchi cad dwg"
+	 Aggiunta del simbolo: "$0$asia|A-ELEV-MBE1"
+	 Aggiunta del simbolo: "$0$asia|G-PLANOTM"
+	 Aggiunta del simbolo: "$0$asia|IKE120006-t1"
+	 Aggiunta del simbolo: "$0$asia|IKE120015-t1"
 	Aggiornamento di Layer completato.
 
 	Aggiornare dizionario stato layer:
@@ -33,9 +32,9 @@ Risolve Xrif "QM-D_3": ..\QM-D_3.dwg
 	Aggiornamento di Tipo di linea completato.
 
 	Aggiornare tabella simboli stile di testo:
-	 Aggiunta del simbolo: "QM-D_3|Standard"
-	 Aggiunta del simbolo: "QM-D_3|Annotativa"
-	 Aggiunta del simbolo: "QM-D_3|E-ROMANS"
+	 Aggiunta del simbolo: "$0$asia|Standard"
+	 Aggiunta del simbolo: "$0$asia|Annotativa"
+	 Aggiunta del simbolo: "$0$asia|E-ROMANS"
 	Aggiornamento di Stile di testo completato.
 
 	Aggiornare tabella simboli applicazione registrata:
@@ -59,12 +58,14 @@ Risolve Xrif "QM-D_3": ..\QM-D_3.dwg
 	Aggiornamento di Applicazione registrata completato.
 
 	Aggiornare tabella simboli stile di quota:
-	 Aggiunta del simbolo: "QM-D_3|Standard"
-	 Aggiunta del simbolo: "QM-D_3|Annotativa"
-	 Aggiunta del simbolo: "QM-D_3|ISO-25"
-	 Aggiunta del simbolo: "QM-D_3|E-0100_ARW_18"
-	 Aggiunta del simbolo: "QM-D_3|E-0050_TICK_12"
-	 Aggiunta del simbolo: "QM-D_3|E-0100_TICK_12"
+	 Aggiunta del simbolo: "$0$asia|Standard"
+	 Aggiunta del simbolo: "$0$asia|Annotativa"
+	 Aggiunta del simbolo: "$0$asia|ISO-25"
+	 Aggiunta del simbolo: "$0$asia|E-0100_ARW_18"
+	 Aggiunta del simbolo: "$0$asia|E-0050_TICK_12"
+	 Aggiunta del simbolo: "$0$asia|E-0100_TICK_12"
+	 Aggiunta del simbolo: "$0$asia|Sima"
+	 Aggiunta del simbolo: "$0$asia|E-0001_ARW_18"
 	Aggiornamento di Stile di quota completato.
 
 	Aggiornare dizionario nomeStileStampa:
@@ -75,4 +76,129 @@ Risolve Xrif "QM-D_3": ..\QM-D_3.dwg
 
 	Aggiornare dizionario scalelist:
 	Aggiornamento di ScaleList completato.
-"QM-D_3" caricato: C:\Users\admin\Desktop\QM-D_3\QM-D_3.dwg
+"$0$asia" caricato: C:\Users\admin\Desktop\QM-D_3\contrib\asia.dwg
+Possibili modifiche al file di riferimento "$0$asia" dall'ultimo salvataggio del disegno host.
+
+Risolve Xrif "$0$gaia": .\contrib\gaia.dwg
+
+	Aggiornare tabella simboli blocco:
+	 Aggiunta del simbolo: "$0$gaia|A$C28D42AF1"
+	 Aggiunta del simbolo: "*U|REF"
+	Aggiornamento di Blocco completato.
+
+	Aggiornare tabella simboli layer:
+	Aggiornamento di Layer completato.
+
+	Aggiornare dizionario stato layer:
+	Aggiornamento di Stato layer completato.
+
+	Aggiornare tabella simboli tipo di linea:
+	Aggiornamento di Tipo di linea completato.
+
+	Aggiornare tabella simboli stile di testo:
+	 Aggiunta del simbolo: "$0$gaia|Standard"
+	 Aggiunta del simbolo: "$0$gaia|Annotativa"
+	Aggiornamento di Stile di testo completato.
+
+	Aggiornare tabella simboli applicazione registrata:
+	 È stata ignorata l'immissione "ACAD_PSEXT" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcadAnnoPO" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcadAnnotative" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_DSTYLE_DIMJAG" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_DSTYLE_DIMTALN" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_MLEADERVER" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_NAV_VCDISPLAY" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_DSTYLE_DIMBREAK" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcAecLayerStandard" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcCmTransparency" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_DSTYLE_DIMTEXT_FILL" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_EXEMPT_FROM_CAD_STANDARDS" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcLayerTools" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcadStringInfo" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "REVIT" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AEC_XDATA_BOUND_SPACE" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcDbBlockRepETag" duplicata di applicazione registrata.
+	Aggiornamento di Applicazione registrata completato.
+
+	Aggiornare tabella simboli stile di quota:
+	 Aggiunta del simbolo: "$0$gaia|Standard"
+	 Aggiunta del simbolo: "$0$gaia|Annotativa"
+	 Aggiunta del simbolo: "$0$gaia|ISO-25"
+	Aggiornamento di Stile di quota completato.
+
+	Aggiornare dizionario nomeStileStampa:
+	Aggiornamento di NomeStileStampa completato.
+
+	Aggiornare dizionario materiale:
+	Aggiornamento di Materiale completato.
+
+	Aggiornare dizionario scalelist:
+	Aggiornamento di ScaleList completato.
+"$0$gaia" caricato: C:\Users\admin\Desktop\QM-D_3\contrib\gaia.dwg
+Possibili modifiche al file di riferimento "$0$gaia" dall'ultimo salvataggio del disegno host.
+
+Risolve Xrif "$0$roberta": .\contrib\roberta.dwg
+
+	Aggiornare tabella simboli blocco:
+	 Aggiunta del simbolo: "$0$roberta|A$C08E13F05"
+	 Aggiunta del simbolo: "$0$roberta|IKEA-Grankulla_Futon_Single_Bed-top"
+	 Aggiunta del simbolo: "$0$roberta|A$C596A3198"
+	 Aggiunta del simbolo: "$0$roberta|A$C6AD400E8"
+	 Aggiunta del simbolo: "$0$roberta|A$C1F961306"
+	 Aggiunta del simbolo: "*U|REF"
+	Aggiornamento di Blocco completato.
+
+	Aggiornare tabella simboli layer:
+	 Aggiunta del simbolo: "$0$roberta|A-DOOR-FULL"
+	 Aggiunta del simbolo: "$0$roberta|A-WALL-FULL"
+	 Aggiunta del simbolo: "$0$roberta|TREE"
+	 Aggiunta del simbolo: "$0$roberta|A-ANNO-NOTE"
+	Aggiornamento di Layer completato.
+
+	Aggiornare dizionario stato layer:
+	Aggiornamento di Stato layer completato.
+
+	Aggiornare tabella simboli tipo di linea:
+	Aggiornamento di Tipo di linea completato.
+
+	Aggiornare tabella simboli stile di testo:
+	 Aggiunta del simbolo: "$0$roberta|Standard"
+	 Aggiunta del simbolo: "$0$roberta|Annotativa"
+	Aggiornamento di Stile di testo completato.
+
+	Aggiornare tabella simboli applicazione registrata:
+	 È stata ignorata l'immissione "ACAD_PSEXT" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcadAnnoPO" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcadAnnotative" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_DSTYLE_DIMJAG" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_DSTYLE_DIMTALN" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_MLEADERVER" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_NAV_VCDISPLAY" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_DSTYLE_DIMBREAK" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcAecLayerStandard" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcCmTransparency" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_DSTYLE_DIMTEXT_FILL" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "ACAD_EXEMPT_FROM_CAD_STANDARDS" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcLayerTools" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcDbBlockRepETag" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AcadStringInfo" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "REVIT" duplicata di applicazione registrata.
+	 È stata ignorata l'immissione "AEC_XDATA_BOUND_SPACE" duplicata di applicazione registrata.
+	Aggiornamento di Applicazione registrata completato.
+
+	Aggiornare tabella simboli stile di quota:
+	 Aggiunta del simbolo: "$0$roberta|Standard"
+	 Aggiunta del simbolo: "$0$roberta|Annotativa"
+	 Aggiunta del simbolo: "$0$roberta|ISO-25"
+	Aggiornamento di Stile di quota completato.
+
+	Aggiornare dizionario nomeStileStampa:
+	Aggiornamento di NomeStileStampa completato.
+
+	Aggiornare dizionario materiale:
+	Aggiornamento di Materiale completato.
+
+	Aggiornare dizionario scalelist:
+	Aggiornamento di ScaleList completato.
+"$0$roberta" caricato: C:\Users\admin\Desktop\QM-D_3\contrib\roberta.dwg
+Possibili modifiche al file di riferimento "$0$roberta" dall'ultimo salvataggio del disegno host.
